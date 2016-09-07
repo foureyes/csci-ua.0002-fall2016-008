@@ -77,41 +77,41 @@ QUESTION - (header) What are some characteristics of programming languages?
 <section markdown="block">
 ### These Are 20 of the Most Used Languages Today
 <aside markdown="block">
-(At least, according to [TIOBE](http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html), August 2014)
+(At least, according to [TIOBE](http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html), September 2016)
 </aside>
 <div style='text-align:center;'>
 <table style='text-align:left;margin:auto;'>
 <tr>
 	<td width="33%">
 		<ol>
-		<li>C</li>
 		<li>Java</li>
-		<li>Objective-C</li>
+		<li>C</li>
 		<li>C++</li>
-		<li>Basic</li>
 		<li>C#</li>
+		<li><strong>Python</strong></li>
+		<li>PHP</li>
 		</ol>
 	</td>
 	<td width="33%">
 		<ol start="7">
-		<li><strong>Python</strong></li>
-		<li>PHP</li>
-		<li>Perl</li>
 		<li>JavaScript</li>
-		<li>Visual Basic</li>
 		<li>Visual Basic .NET</li>
+		<li>Perl</li>
+		<li>Assembly</li>
+		<li>Delphi</li>
 		<li>Ruby</li>
+		<li>VisualBasic</li>
 		</ol>
 	</td>
 	<td width="34%">
 		<ol start="14">
-		<li>F#</li>
-		<li>Pascal</li>
-		<li>Transact-SQL</li>
-		<li>ActionScript</li>
-		<li>Delphi/Object Pascal</li>
-		<li>Lisp</li>
+		<li>Swift</li>
+		<li>Objective-C</li>
+		<li>Groovy</li>
+		<li>R</li>
+		<li>MATLAB</li>
 		<li>PL/SQL</li>
+		<li>Go</li>
 		</ol>
 	</td>
 </tr>
