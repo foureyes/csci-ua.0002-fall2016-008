@@ -29,6 +29,5 @@ Readings
 Assignments 
 
 * Complete the [Self Paced-Learning Module #1]({{ site.module1 }})
-* Take quiz #1 on NYU Classes - __Due 9/9, 12:30pm__
-
+* Take quiz #1 on NYU Classes (to be posted after class)  - Due Monday, 9/12
 </article>
