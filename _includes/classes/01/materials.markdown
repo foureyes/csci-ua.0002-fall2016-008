@@ -26,8 +26,8 @@ Readings
 
 * Read {{ site.bookq }} - Chapter 1
 
-Assignments 
+Assignments __Due Monday, 9/12, before class__
 
 * Complete the [Self Paced-Learning Module #1]({{ site.module1 }})
-* Take quiz #1 on NYU Classes (to be posted after class)  - Due Monday, 9/12
+* Take quiz #1 on NYU Classes 
 </article>
