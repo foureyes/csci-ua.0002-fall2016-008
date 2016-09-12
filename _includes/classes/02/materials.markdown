@@ -38,7 +38,7 @@ Module, Quiz and Readings __Due Monday, Sep 14th, before class__
 * Complete the [Self Paced-Learning Module #2]({{ site.module2 }})
 * Take quiz #2 on NYU Classes (will be open by 3:30pm today)
 
-Homework #1 __Due Wednesday, Sep 16th, at 11PM__ 
+Homework #1 __Due Monday, Sep 19th, at 11PM__ 
 
 1. [mad_libs_lyrics.py](homework/hw01/mad_libs_lyrics.py) - 2 points
 2. [exercises.py](homework/hw01/exercises.py) - 3 points
