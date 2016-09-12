@@ -40,6 +40,8 @@ Module, Quiz and Readings __Due Monday, Sep 14th, before class__
 
 Homework #1 __Due Monday, Sep 19th, at 11PM__ 
 
+(Submit via NYU Classes)
+
 1. [mad_libs_lyrics.py](homework/hw01/mad_libs_lyrics.py) - 2 points
 2. [exercises.py](homework/hw01/exercises.py) - 3 points
 3. [tree.py](homework/hw01/tree.py) - 2 points
