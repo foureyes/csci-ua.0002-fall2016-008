@@ -1,4 +1,3 @@
-{% comment %}
 <article class="due" markdown="block">
 
 <a name="class3"></a>
@@ -13,8 +12,11 @@
 <article class="slides" markdown="block">
 #### Slides
 
+{% comment %}
 * [Homework and Tutoring](classes/03/homework.html)
 * [Workshop Next Week](classes/03/workshop.html)
+{% endcomment %}
+
 * [Review Values, Types, Operations and Variables](classes/03/review.html)
 * [Review Calling Functions](classes/03/function-calls.html)
 * [Review User Input](classes/03/input-review.html)
@@ -23,6 +25,7 @@
 * [Variables Continued](classes/03/variables.html)
 * [Designing a Program (previous class)](classes/02/design-input-output.html)
 * [Errors and Degugging](classes/03/debugging.html)
+
 <!--
 * [Functions](classes/03/functions.html)
 	* go through your code line-by-line
@@ -41,7 +44,7 @@ Readings
 * {{ site.bookq }} - Chapter 2 (Input, Processing and Output)
 * [{{site.bookt}} - Chapter 2](http://openbookproject.net/thinkcs/python/english3e/variables_expressions_statements.html)
 
-Module, Quiz and Readings __Due Monday, Sep 21st, before class__ 
+Module, Quiz and Readings __Due Wednesday, Sep 21st, before class__ 
 
 
 * Complete the [Self Paced-Learning Module #3]({{ site.module3 }})
@@ -55,5 +58,3 @@ Module, Quiz and Readings __Due Monday, Sep 21st, before class__
 * [Types, Variables, Operators, Input and Comments](resources/handouts/class03/types-variables-operators-comments.pdf)
 * [Types, Variables, Operators, Input and Comments Solutions](resources/handouts/class03/types-variables-operators-comments-solutions.pdf)
 -->
-{% endcomment %}
-
