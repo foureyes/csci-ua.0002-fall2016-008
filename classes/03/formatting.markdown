@@ -94,3 +94,24 @@ print(format(a, ',d'))
 print(format(a, '>20,d')
 {% endhighlight %}
 </section>
+
+<section markdown="block">
+### The Formal Specification
+
+Ok... so if you want to know how __format__ really works:
+
+* the second argument is a string that represents a format
+* and it's written in a "mini-language" (yes, a language in a language!)
+
+{% highlight python %}
+format_spec ::=  [[fill]align][sign][#][0][width][,][.precision][type]
+fill        ::=  <any character>
+align       ::=  "<" | ">" | "=" | "^"
+sign        ::=  "+" | "-" | " "
+width       ::=  integer
+precision   ::=  integer
+type        ::=  "b" | "c" | "d" | "e" | "E" | "f" | "F" | "g" | 
+                 "G" | "n" | "o" | "s" | "x" | "X" | "%"
+{% endhighlight %}
+
+</section>
