@@ -1,36 +1,44 @@
-{% comment %}
 <article class="due" markdown="block">
 #### Due Today
 
-<!--
-* Homework
--->
+Homework #01
 
 </article>
 
 <article class="slides" markdown="block">
 #### Slides
 
-<!--
-* [Slides](classes/01/intro.html)
--->
 
+Warm-up
+
+* multiple string operations in a single expression
+    * _len()_ function (not necessary for homework)
+* review formatting again
+	* formatting a %
+    * formatting decimal places
+    * length of string
+	* aligning everything right
+	* aligning everything left
+    * the argument given is a string! (try passing in a variable)
+    * interactive program - how do you want me to format this...
+    * it returns a string, which leads us to...
+* review print
+    * print a formatted string with other strings
+    * note that print doesn't care about type
+* demo homework programs
 </article>
 
 <article class="assignments" markdown="block">
 #### Assignments / Readings		
 
-Warm-up
+Homework #2 __Due Sunday, Sep 25th, at 11PM__ 
 
-* formatting 
-	* formatting a %
-	* aligning everything right
-* stadium seating with formatted $ output
-* demo homework programs
+* we'll do go over potential solutions to multiply together!
+* for the remainder of the homework
+    * write your own code
+    * (though, I expect that multiply will be the same one that we mostly implement in class)
 
-Homework #2 __Due Wednesday, Sep 23rd, at 11PM__ 
-
-1. [multiply.py](homework/hw02/multiply.py)
+1. [multiply.py](homework/hw02/multiply.py) (partially implemented in class together!)
 2. [grade_bot_3000.py](homework/hw02/grade_bot_3000.py)
 3. [change_puhleese.py](homework/hw02/change_puhleese.py)
 4. [numbers.py](homework/hw02/numbers.py)
@@ -72,4 +80,3 @@ See [the glossary for chapter 2](http://openbookproject.net/thinkcs/python/engli
 5. [cats.py](homework/hw02/cats.py)
 6. [numbers.py](homework/hw02/numbers.py) (This one may be a little tough: I'll grade it generously)
 -->
-{% endcomment %}
