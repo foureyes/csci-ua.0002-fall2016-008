@@ -37,14 +37,11 @@ Here's what your program should do:
    c. followed by a line created by equal signs that's 80 characters long (===)
       * __DO NOT TYPE OUT__ 50 ='s ... use what we learned about Python types,
         operators, etc. to do this
-   d. print out the costs per item... with a pipe (|) bordering either end:
-      | 3 x Guido Van Rossum Bobble Head        $90.00 |
+   d. print out the costs per item
    e. print out another line created by equal signs
-   f. print out the calculations for total item cost amount paid, and change,
-      with a pipe (|) bordering either end
+   f. print out the calculations for total item cost amount paid, and change
    g. print out another line created by equal signs
-   h. print out the number of tens, fives, etc. with a pipe (|) bordering 
-      either end
+   h. print out the number of tens, fives, etc. 
    i. "headings" in a line are left justified: item name x quantity ... cost
    j. prices / costs:
       * are right justified
@@ -82,24 +79,25 @@ How many are being purchased?
 How much was paid?
 > 2048
 change cents 51.0
+
            PREMIER PYTHON PLAZA RECEIPT
 ==================================================
-| 3 x Guido Van Rossum Bobble Head        $90.00 |
-| 1 x Python Stuffed Animal               $29.99 |
-| 3 x Hello World T-Shirt                $112.50 |
+3 x Guido Van Rossum Bobble Head            $90.00
+1 x Python Stuffed Animal                   $29.99
+3 x Hello World T-Shirt                    $112.50
 ==================================================
-| TOTAL COST OF ITEMS                    $232.49 |
-| AMOUNT PAID                           $2048.00 |
-| CHANGE                                $1815.51 |
+TOTAL COST OF ITEMS                        $232.49
+AMOUNT PAID                               $2048.00
+CHANGE                                    $1815.51
 ==================================================
-| CHANGE:                                        |
-| 181 x tens                                     |
-| 1 x fives                                      |
-| 0 x ones                                       |
-| 2 x quarters                                   |
-| 0 x dimes                                      |
-| 0 x nickels                                    |
-| 1 x pennies                                    |
+CHANGE:                                           
+181 x tens                                        
+1 x fives                                         
+0 x ones                                          
+2 x quarters                                      
+0 x dimes                                         
+0 x nickels                                       
+1 x pennies                                       
 ==================================================
 
 
