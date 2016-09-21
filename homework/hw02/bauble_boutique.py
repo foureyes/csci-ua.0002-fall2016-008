@@ -78,7 +78,6 @@ How many are being purchased?
 > 3
 How much was paid?
 > 2048
-change cents 51.0
 
            PREMIER PYTHON PLAZA RECEIPT
 ==================================================
