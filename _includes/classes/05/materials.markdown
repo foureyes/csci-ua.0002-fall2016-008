@@ -9,7 +9,10 @@
 <article class="slides" markdown="block">
 #### Slides
 
+{% comment %}
 * [About Class #5](classes/05/meta.html)
+{% endcomment %}
+
 * [Conditionals / Review Module #3](classes/05/review-conditionals.html)
 * [Boolean Logic](classes/05/boolean-logic.html)
 * [Types, Operators, Precedence](classes/05/types-operators-precedence.html)
