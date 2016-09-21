@@ -1,4 +1,3 @@
-{% comment %} 
 <article class="due" markdown="block">
 #### Due Today
 
@@ -11,7 +10,7 @@
 #### Slides
 
 * [About Class #5](classes/05/meta.html)
-* [Review Conditionals](classes/05/review-conditionals.html)
+* [Conditionals / Review Module #3](classes/05/review-conditionals.html)
 * [Boolean Logic](classes/05/boolean-logic.html)
 * [Types, Operators, Precedence](classes/05/types-operators-precedence.html)
 * [If Statements - Advanced](classes/05/if-statements-advanced.html)
@@ -51,5 +50,3 @@ Assignments
 ### Vocabulary
 See [the glossary](http://openbookproject.net/thinkcs/python/english3e/conditionals.html#glossary) in {{site.bookt}}, Chapter 5.
 -->
-{% endcomment %}
-
