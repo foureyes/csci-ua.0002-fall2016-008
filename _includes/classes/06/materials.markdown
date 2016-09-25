@@ -1,6 +1,5 @@
-{% comment %}  
 <article class="due" markdown="block">
-#### Due Today
+#### Due on Sunday before Class
 
 * Homework #2
 
@@ -22,7 +21,7 @@ Warm-up
 
 * larger of two rrrrectangles
 
-Homework #3 __Due Wednesday, Sep 30th, at 11PM__ 
+Homework #3 __Due Sunday, Oct 2nd, at 11PM__ 
 
 1. [grade.py](homework/hw03/grade.py)
 2. [tip.py](homework/hw03/tip.py)
@@ -81,4 +80,3 @@ See [the glossary](http://openbookproject.net/thinkcs/python/english3e/condition
 5. [distance.py](homework/hw03/distance.py)
 6. [worksheet.py](homework/hw03/worksheet.py)
 -->
-{% endcomment %}
