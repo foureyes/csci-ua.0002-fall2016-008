@@ -56,9 +56,9 @@ Homework
 * Turned in **electronically via NYU Classes**
 * Homework assignments are due one week after posting
 * Late homework policy
-	* The assignment will stay open up to 24 hours in NYU classes
-	* After the 24 hour grace period, homework cannot be submitted
-	* A pattern of late homework will result in zero points for subsequent late homeworks (even if submitted during the grace period)
+	* The assignment will stay open for late submissions up until the beginning of the workshop class on the following day
+	* Late homework will receive a minor penalty
+	* After the grace period, homework cannot be submitted
 * [Page on academic integrity](http://www.cs.nyu.edu/webapps/content/academic/undergrad/academic_integrity)
 	* However, I do expect some level of collaboration (help debugging, discussing potential solutions, etc.)
 	* __But write your own code!__
