@@ -14,9 +14,8 @@
 #### Slides
 
 * [About Class #7 - Midterm Exam Date](classes/07/meta.html)
-* [While Loops](classes/07/while.html)
-* [For Loops](classes/07/for.html)
-* [While Loops Revisited](classes/07/while-revisited.html)
+* [While Loops](classes/07/while.html) / [Alternative While Loop Slides](classes/07/while-revisited.html)
+* [For Loops](classes/07/for.html) Maybe
 
 <!--
 * [Review](classes/07/review.html)
