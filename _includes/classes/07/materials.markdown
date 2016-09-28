@@ -30,6 +30,7 @@
 
 * Complete the [Self Paced-Learning Module #5]({{ site.module5 }})
 * Take quiz #5 on NYU Classes
+
 <!--
 Readings
 
@@ -39,6 +40,7 @@ Assignments
 
 1. [questions.py](homework/hw01/questions.py) - 9 points
 -->
+
 </article>
 <!--
 <a name="class7"></a>
