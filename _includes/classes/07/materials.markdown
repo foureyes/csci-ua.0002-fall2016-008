@@ -1,4 +1,3 @@
-{% comment %}  
 <article class="due" markdown="block">
 #### Due Today
 
@@ -69,4 +68,3 @@ See [the glossary](http://openbookproject.net/thinkcs/python/english3e/modules.h
 See [the glossary](http://openbookproject.net/thinkcs/python/english3e/iteration.html#glossary) in {{ site.bookt }}, Chapter 7.
 
 -->
-{% endcomment %}

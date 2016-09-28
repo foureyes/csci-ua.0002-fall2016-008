@@ -12,7 +12,7 @@ title: About Class #7
 ### Homework
 
 * homework #1 grades posted
-* [homework #3](../../schedule.html#homework3) is due on Wednesday
+* [homework #3](../../schedule.html#homework3) is due on Sunday before class
 
 </section>
 
@@ -26,8 +26,8 @@ title: About Class #7
 <section markdown="block">
 ### Midterm #1
 
-* midterm #1 is in two weeks - 10/13
-* it's __on TUESDAY__!!!!????
+* midterm #1 is in less than three weeks - 10/17
+* it's __on Monday__, October 17th at 12:30pm
 * it takes place in class, so come on time
 * there are no make up exams if you miss it!
 * if you cannot make it on the scheduled date because of religious observances, please let me know in advance
