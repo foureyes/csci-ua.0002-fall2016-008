@@ -1,4 +1,3 @@
-{% comment %}  
 <article class="due" markdown="block">
 #### Due Today
 
@@ -12,6 +11,8 @@ Homework #3
 
 <article class="slides" markdown="block">
 #### Slides
+
+Midterm #1 is coming up in 2 weeks. Here are some sample questions:
 
 * [Midterm #1 Sample Questions](resources/handouts/midterm_1/midterm_1_practice.pdf)
 * [Midterm #1 Sample Solutions](resources/handouts/midterm_1/midterm_1_practice_solutions.pdf)
@@ -27,10 +28,11 @@ Homework #3
 
 Warm-up
 
-* break and continue
-* division until done (give me a number to divide by, with validation)
+* break and continue again
+* preview for-loops?
+* while loop with a game - maybe number guessing game?
 
-Homework #4 __Due Wednesday, Oct 7th, at 11PM__ 
+Homework #4 __Due Sunday , Oct 9th, at 11PM__ 
 
 1. [many_words.py](homework/hw04/many_words.py)
 2. [sticky.py](homework/hw04/sticky.py)
@@ -91,5 +93,3 @@ Note:
 5. [dice.py](homework/hw04/dice.py)
 6. [average_word.py](homework/hw04/average_word.py)
 -->
-{% endcomment %}
-
