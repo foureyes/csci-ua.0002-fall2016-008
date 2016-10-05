@@ -10,7 +10,7 @@ title: Meta
 <section markdown="block">
 ### Topics
 
-* finishing up for loops / for loop review
+* for loops
 * while vs for
 * all exercises, _all the time_
 </section>
@@ -18,9 +18,10 @@ title: Meta
 <section markdown="block">
 ### Homework
 
-Grades for homework 2 and 3 will be posted on Tuesday.
+* Grades for homework 2 posted
+* Grades for homework 3 by early next week
 
-Homework #4 is due on Wednesday!
+Homework #4 is due on Sunday!
 </section>
 
 
@@ -218,10 +219,11 @@ main()
 
 Coming up soon!
 
-* The __first midterm__ is on Tuesday, __October 13th!__
-	* __THAT'S NEXT WEEK__
-* Rather than a workshop, we'll have a review in-class this Wednesday
-	* Practice exam was posted under class 8
+* The __first midterm__ is on Monday, __October 17th!__
+	* __THAT'S IN LESS THAN TWO WEEKS__
+* There's no class / workshop on Monday 10/10
+* We'll have a review in-class next Wednesday
+	* Practice questions were posted under class 8
 	* We'll discuss during the in-class review
 </section>
 

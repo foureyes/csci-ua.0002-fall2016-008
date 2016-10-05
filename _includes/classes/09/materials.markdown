@@ -1,4 +1,3 @@
-{% comment %}
 <article class="due" markdown="block">
 #### Due Today
 
@@ -15,7 +14,7 @@
 #### Slides
 
 * [About Class #9](classes/09/meta.html)
-* Continuing [For Loops From the Previous Class](classes/08/for.html)
+* [For Loops Slides From the Previous Class](classes/08/for.html)
 * [While Loops vs For Loops](classes/09/vs.html)
 * [Loop Exercises](classes/09/loop-exercises.html)
 
@@ -61,4 +60,3 @@ See [the glossary](http://openbookproject.net/thinkcs/python/english3e/iteration
 * [numbers.py](resources/code/hw2/numbers.py)
 * [stadium_seating.py](resources/code/hw2/stadium_seating.py)
 -->
-{% endcomment %}
