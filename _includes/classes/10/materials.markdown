@@ -1,4 +1,3 @@
-{% comment %} 
 <article class="due" markdown="block">
 #### Due Today
 
@@ -20,11 +19,13 @@
 * [Additional Sample Questions for Midterm #1](resources/handouts/midterm_1/midterm_1_additional_practice.pdf)
 * [Additional Sample Questions for Midterm #1 Solutions](resources/handouts/midterm_1/midterm_1_additional_practice_solutions.pdf)
 
+{%comment%}
 ### Out-of-class Review
 
 * Room TBD (Probably WWH201)
 * 10/08/2015
 * 6:30PM- 7:15PM
+{%endcomment%}
 
 <!--
 * [Slides](classes/01/intro.html)
@@ -72,4 +73,3 @@ Assignments
 * Homework #4 posted after after Friday's (2/27) review
 
 -->
-{% endcomment %}

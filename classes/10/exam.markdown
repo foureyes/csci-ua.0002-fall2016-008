@@ -12,8 +12,8 @@ title: About the Exam
 
 * if you miss it, you get a 0
 * the best indication of the types of questions you'll see is the list of sample exam questions
-* expect the exam to to be similar to the homework (questions.py and some of the basic programming problems...) and handouts
-* expect about 15 questions (give or take 1) total
+* expect the exam to to be similar to the _easier_ homework (questions.py and some of the basic programming problems...) and handouts
+* expect about 15 questions (give or take a couple) total
 * you'll have the entire class period for the exam
 </section>
 
@@ -163,11 +163,12 @@ for num in range(10)
 ### Topics from Slides
 
 * all topics in the slides from classes __1__ through __10__
+* review the online modules that we've gone over (up through for loops)
 * check out the __definitions__ in the slides (they're usually __bolded__)
 * check out the __sample problems__ in the slides
 * the built-in functions that were in the homework (and that appeared in slides that we did not go over) __may be in the exam__
 * the following topics from the slides (and modules) __will not__ be in the exam:
-	* inherent truth values
+    * turtle
 	* nested loops (we never had a chance to cover this)
 </section>
 
@@ -229,8 +230,8 @@ __The exam will cover material from Chapters 1 through 4 in the book.__
 
 We have a few options.  __Which one do you want to do first?__
 
+* suggest topics?
 * alternate working on sample exam questions and going over answers
-* go over selected solutions to homework
 * go over review slides
 	* variables, expressions, statements
 	* operators and types (int, bool, etc)
