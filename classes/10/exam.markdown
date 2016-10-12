@@ -163,13 +163,23 @@ for num in range(10)
 ### Topics from Slides
 
 * all topics in the slides from classes __1__ through __10__
-* review the online modules that we've gone over (up through for loops)
 * check out the __definitions__ in the slides (they're usually __bolded__)
 * check out the __sample problems__ in the slides
 * the built-in functions that were in the homework (and that appeared in slides that we did not go over) __may be in the exam__
 * the following topics from the slides (and modules) __will not__ be in the exam:
-    * turtle
+    * turtle (was only in the online modules)
+    * demorgan's laws
 	* nested loops (we never had a chance to cover this)
+</section>
+
+<section markdown="block">
+## Topics from Modules
+
+Review the online modules that we've gone over:
+
+* everything up through for loops
+* again, no nested loops
+* no turtle
 </section>
 
 <section markdown="block">
