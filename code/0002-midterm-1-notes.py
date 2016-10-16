@@ -10,7 +10,7 @@ specified "format". The format function takes two arguments:
 It ALWAYS returns a string.
 
 The 2nd argument, the format specifier allows you to specify how the value
-will be formatted, by using the folowing attributes (there are than these,
+will be formatted, by using the following attributes (there are than these,
 but these are the attributes we covered in class):
 
 * type (can be d for digit, f for floating, % for percent, s for string)
@@ -242,3 +242,49 @@ answer = input('do you want me to stop asking this question?\n>')
 while answer != 'yeah' and answer != 'yes':
     answer = input('do you want me to stop asking this question?\n>')
      
+# next, let's examine using consecutive if statements using the example
+# from the slides:
+# Write a program that translate an athlete's finishing placement 
+# (1st, 2nd and 3rd) into its Olympic medal value: 
+# * first, ask the user for the finishing placement
+# * based on that number, print out the correct medal:
+#   * gold for 1
+#   * silver for 2
+#   * bronze for 3
+#   * and anything else means no medal 
+# for example:
+#
+# What number should I translate into a medal?
+# >2
+# silver
+#
+# What number should I translate into a medal?
+# >23
+# no medal for you!
+
+
+# first let's try using consecutive __IF STATEMENTS ONLY__ ...
+# try running the program and entering 2; it will not work as expected!
+place = int(input('What number should I translate into a medal?\n>'))
+if place == 1:
+    print("gold")
+if place == 2:
+    print("silver")
+if place == 3:
+    print("bronze")
+else:
+    print("no medal for you!")
+
+# this is because each if statement is independent from each other
+# in the code above, the else is only paired with the last if, and all of 
+# the other ifs can run on their own. to fix this, use else if instead
+# ... so that only one branch will be run, rather than potentially all!
+place = int(input('What number should I translate into a medal?\n>'))
+if place == 1:
+    print("gold")
+elif place == 2:
+    print("silver")
+elif place == 3:
+    print("bronze")
+else:
+    print("no medal for you!")
