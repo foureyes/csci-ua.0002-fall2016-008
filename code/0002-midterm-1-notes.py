@@ -288,3 +288,71 @@ elif place == 3:
     print("bronze")
 else:
     print("no medal for you!")
+
+"""
+accumulators
+=====
+some basic / intermediate examples of:
+
+1. accumulating into a number
+2. accumulating into a string
+3. accumulating with user input
+"""
+# sum of numbers 1 through 10 using for
+total = 0
+for num in range(1, 11):
+    total += num
+print(total)
+
+# sum of numbers 1 through 10 using while
+total = 0
+num = 1
+while num < 11:
+    total += num
+    num += 1
+print(total)
+
+# note that the for loop version is a little bit easier since you only need
+# a single accumulator, total... and num is simply the loop variable. on the
+# other hand, the while loop requires num to be accumulated.
+#
+# also note that the number of iterations of both can be controlled simply
+# by making: (a) the 2nd argument in for a variable or (b) making the 11 in 
+# num < 11 a variable
+
+# accumulating into an empty string to build a "square" of x's:
+# (this can be done with string repetition, without a loop, too)
+# note the new line at the end of each line... this is simply making the 
+# following square:
+#
+# xxxxx
+# xxxxx
+# xxxxx
+# xxxxx
+#
+# which as a string is: "xxxxx\nxxxxx\nxxxxx\nxxxxx\nxxxxx"
+s = ''
+for i in range(5):
+    s += 'x' * 5 + '\n'
+print(s) 
+
+# finally, accumulation and input together for building a string
+# this program simply asks the user for words, which are put together to make
+# a sentence. once the user's word is stop in all uppercase, the program will
+# stop asking for words:
+#
+# word please
+# > hello
+# word please
+# > world
+# word please
+# > STOP
+# hello world
+
+word = ''
+sentence = ''
+while word != 'STOP':
+    if word != '':             # prevent empty string from adding a space
+        sentence += word + ' ' # add the word and a space
+    word = input('word plz\n> ')
+print(sentence)
