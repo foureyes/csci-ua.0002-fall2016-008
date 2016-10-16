@@ -13,11 +13,15 @@
 * [About Midterm #1](classes/10/exam.html)
 * [Review (Variables, Statements, Expressions, Types, Operators, Loops, Conditionals)](classes/10/review.html)
 
+### Code
+* [Review Notes on format, % operator, conditionals](code/0002-midterm-1-notes.py)
+
 ### Handouts
 * [Sample Questions for Midterm #1](resources/handouts/midterm_1/midterm_1_practice.pdf)
 * [Sample Questions for Midterm #1 Solutions](resources/handouts/midterm_1/midterm_1_practice_solutions.pdf)
 * [Additional Sample Questions for Midterm #1](resources/handouts/midterm_1/midterm_1_additional_practice.pdf)
 * [Additional Sample Questions for Midterm #1 Solutions](resources/handouts/midterm_1/midterm_1_additional_practice_solutions.pdf)
+
 
 {%comment%}
 ### Out-of-class Review
