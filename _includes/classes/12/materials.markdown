@@ -1,4 +1,3 @@
-{% comment %}  
 <article class="due" markdown="block">
 #### Due Today
 
@@ -90,4 +89,3 @@ See the [ in Chapter 7 of {{ site.bookt }}](http://openbookproject.net/thinkcs/p
 [counting.py](homework/hw5/counting.py) - 6 points 
 [pluralize.py](homework/hw6/pluralize.py) - 9 points
 [temperature.py](homework/hw6/temperature.py) - 3 points -->
-{% endcomment %}

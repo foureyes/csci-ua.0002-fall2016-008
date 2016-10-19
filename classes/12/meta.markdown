@@ -17,8 +17,8 @@ title: About Class #12
 <section markdown="block">
 ### Quizzes and Homework 
 
-* Quiz 6 and Module 6 due on Monday (will be posted late this evening)
-* Homework to be posted by the end of this week, but will be due Sunday, the 21st... with only 12 hour grace period 
+* Quiz 6 and Module 6 due on Wednesday (will be posted late this evening)
+* Homework to be posted a by the end of this week, and will be due on Sunday, as usual
 * (this homework will be slightly longer, as it will cover both nested loops and functions)
 
 </section>
@@ -27,7 +27,7 @@ title: About Class #12
 <section markdown="block">
 ### Midterm #1
 
-* grades posted by early next week
+* grades posted by Friday or Saturday 
 * partial credit
 * curve (up) if average is below 80
 * any immediate questions?
