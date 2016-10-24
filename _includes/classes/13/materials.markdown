@@ -33,7 +33,7 @@ Homework #5 __Due Sunday, Oct 30th, at 11PM__
 3. [snake_eyes.py](homework/hw05/snake_eyes.py)
 4. [analyze_numbers.py](homework/hw05/analyze_numbers.py)
 
-Module #7 __Due Monday, Oct 31st, before class__
+Module #7 __Due Wednesday, Nov 2nd, before class__
 
 * Complete the [Self Paced-Learning Module #7]({{ site.module7 }})
 * Take quiz #7 on NYU Classes
