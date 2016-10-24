@@ -275,7 +275,7 @@ Jump to Class:
 <a name="class17"></a><!---------- start --------------->
 
 <section markdown="block" class="workshop">
-### WED 11/07, Class #17 (Programming Assignment)
+### MON 11/07, Class #17 (Programming Assignment)
 
 <div class="class-details">
 <article class="topics" markdown="block">
@@ -287,7 +287,7 @@ Jump to Class:
 <a name="class18"></a><!---------- start --------------->
 
 <section markdown="block">
-### MON 11/09, Class #18
+### WED 11/09, Class #18
 
 <div class="class-details">
 <article class="topics" markdown="block">
@@ -313,7 +313,7 @@ Jump to Class:
 <a name="class20"></a><!---------- start --------------->
 
 <section markdown="block" class="exam">
-### MON 11/16, Midterm #2
+### WED 11/16, Midterm #2
 
 </section>
 
