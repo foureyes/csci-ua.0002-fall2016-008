@@ -1,6 +1,7 @@
 ---
 layout: hw
 title: feeling_quizzy.py
+prefix: ../../
 ---
 
 feeling_quizzy.py (9 points)
