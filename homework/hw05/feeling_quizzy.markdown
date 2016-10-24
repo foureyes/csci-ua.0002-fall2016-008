@@ -3,26 +3,37 @@ layout: hw
 title: feeling_quizzy.py
 ---
 
-<pre>
 feeling_quizzy.py (9 points)
 =====
+
+Importing Functions
+-----
+
 Use the functions from your file, funcynum, to create a math quiz.
 
-* save this file, feeling_quizzy.py IN THE SAME DIRECTORY AS funcynum.py
-* at the very top of this file, import your functions from funcynum.py by:
-
+* save this file, `feeling_quizzy.py` __IN THE SAME DIRECTORY AS `funcynum.py`__
+* at the very top of this file, import your functions from `funcynum.py` by:
+    {% highlight python %}
 import funcynum
-
+{% endhighlight %}
 * now you can use your functions by prefixing with your module name (just
-  like using random.randint(a, b) or math.sqrt(25):
-
+  like using `random.randint(a, b)` or `math.sqrt(25)`:
+    {% highlight python %}
 funcynum.print_two('*', 5)
+{% endhighlight %}
+* now you can use your functions by prefixing with your module name (just
 
-Your math quiz program will ask for some parameters to the game... and then
-it will display a series of addition and subtractions questions using your
-library of print_xxxxxx functions from funcynum.py. It will ask for an answer
-and check that answer using your check_answer function from funcynum.py. At
-the end, it will show the percentage of correct answers.
+Math Quiz Description
+-----
+
+Your math quiz program will:
+
+1. ask for some parameters to the game... 
+2. and then it will display a series of addition and subtractions questions using your library of print_xxxxxx functions from `funcynum.py`. 
+3. It will ask for an answer and check that answer using your `check_answer` function from `funcynum.py`. 
+4. At the end, it will show the percentage of correct answers.
+
+Step by step:
 
 * make sure that you've imported funcynum
 * ask for how many quiz problems: 'How many problems?'
@@ -49,6 +60,7 @@ the end, it will show the percentage of correct answers.
 An example game is below. Note the validation that occurs for the number of
 problems and the characters...
       
+{% highlight python %}
 How many problems?
 > 2
 Please enter a number between 5 and 20...
@@ -125,5 +137,4 @@ XXX
  = 10
 Nope, the answer is 14
 You got  66.67% correct (2 out of 3)
-"""
-</pre>
+{% endhighlight %}

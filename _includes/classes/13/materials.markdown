@@ -1,4 +1,3 @@
-{% comment %}  
 <article class="due" markdown="block">
 #### Due Today
 
@@ -19,11 +18,13 @@
 Warm-up
 
 * oh hey, remember modules?
-* if \_\_name\_\_ == '\_\_main\__':
+* if \_\_name\_\_ == '\_\_main\_\_':
 * input/output/processing
 * functions with and without return
+* an example of minus
+* a box
 
-Homework #5 __Due Sunday, Oct 25th, at 11PM__ (+12 hour grace period)
+Homework #5 __Due Sunday, Oct 30th, at 11PM__
 
 1. [funcynum.py](homework/hw05/funcynum.py)
 	* [instructions only](homework/hw05/funcynum.html)
@@ -32,9 +33,9 @@ Homework #5 __Due Sunday, Oct 25th, at 11PM__ (+12 hour grace period)
 3. [snake_eyes.py](homework/hw05/snake_eyes.py)
 4. [analyze_numbers.py](homework/hw05/analyze_numbers.py)
 
-Module #7 __Due Monday, Oct 26th, before class__
+Module #7 __Due Wednesday, Oct 26th, before class__
 
-* (it'd probably good if you got through some of the material by Wednesday's class, though)
+* I'll keep it open for late submissions until our next programming assignment...
 * Complete the [Self Paced-Learning Module #7]({{ site.module7 }})
 * Take quiz #7 on NYU Classes
 
@@ -79,4 +80,3 @@ __{{ site.bookt }}__
 
 See the [glossary in Chapter 3 of {{ site.bookt }}](http://openbookproject.net/thinkcs/python/english3e/hello_little_turtles.html#glossary) 
 -->
-{% endcomment %}

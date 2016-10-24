@@ -18,22 +18,22 @@ Part 1 - Create functions that make horizontal and vertical line strings
 -----
 Create three functions:
 
-1. horizontal_line
-    * input:
+1. horizontal_line(char, width, left_padding)
+    * __input__:
         * the character to make the line out of ('*' for example)
         * the total width of the line
-        * the number of spaces before the line (an offset)
-    * processing: 
+        * the number of spaces before the line (left padding)
+    * __processing__: 
         * creates a <width> wide string composed of the characters specified, 
-          starting with an <offset> number of spaces 
+          starting with an <left_padding> number of spaces 
     * output: 
         * returns a string representing a horizontal line 
 
-2. vertical_lines(char, height, offset, number, interior_offset):
+2. vertical_lines(char, height, left_padding, number, interior_offset):
     * input:
         * the character to make the line out of ('*' for example)
         * the total height of the line
-        * the number of spaces before the line (an offset)
+        * the number of spaces before the line (left padding)
         * the number of vertical lines to draw
         * the space between each line (an interior offset)
     * processing: 
@@ -43,9 +43,9 @@ Create three functions:
         * and is composed of the characters specified 
         * there are <interior offset> number of spaces between each vertical
           line
-        * there is an <offset> number of spaces before the lines begin
-        * for example, '* *\n* *\n* *\n* *' is a set of two vertical lines, 
-          each 4 characters tall with no initial offset. NOTICE THAT THERE IS 
+        * there is an <left_padding> number of spaces before the lines begin
+        * for example, the string, '* *\n* *\n* *\n* *', is a set of two vertical lines, 
+          each 4 characters tall, with one space character between the lines, with no left padding. NOTICE THAT THERE IS 
           NO NEW LINE at the end, and there ARE NO TRAILING SPACES
         * YOU MUST USE NESTED LOOPS TO CONSTRUCT THIS STRING
         * hint: the outer loop can represent row, the inner loop can represent
@@ -54,16 +54,16 @@ Create three functions:
     * output: 
         * returns a string representing a series of vertical lines
         
-3. vertical_line(char, height, offset):
+3. vertical_line(char, height, left_padding):
     * input:
         * the character to make the line out of ('*' for example)
         * the total height of the line
-        * the number of spaces before the line (an offset)
+        * the number of spaces before the line (an left padding)
     * processing: 
         * creates a <height> tall string composed of the characters specified, 
-          starting with an <offset> number of spaces 
+          starting with an <left_padding> number of spaces 
         * hint: imply call your vertical_lines function so that only 1 line is
-          printed (remember to pass along the offset and character, though!)
+          printed (remember to pass along the left_padding and character, though!)
     * output: 
         * returns a string representing a single vertical line 
 
@@ -97,7 +97,7 @@ input/output/processing chart will looks similar for each functions. Here's an
 example input/output/processing chart, an actual function definition for the
 function that prints out the number one, and some examples of usage:
 
-print_one
+print_one(char, width)
 * input:  
     * a character to create the number with
     * the width of the number
@@ -130,12 +130,12 @@ print_one('X', 3)
   X
   X
 
-print_one('$', 1)
-$
-$
-$
-$
-$
+print_one('$', 1) # default to 3 width
+  $
+  $
+  $
+  $
+  $
 
 Here's an example of running all of the functions and the resulting output:
 
@@ -250,8 +250,8 @@ check_answer
     * checks against the proposed answer
     * if the operator isn't + or -, default to +
 * output:     
-    * returns true if the answer matches the actual result of the calculation
-      ...returns false otherwise
+    * returns a boolean - True if the answer matches the actual result of the calculation
+      ...returns False otherwise
 
 Example usage and output:
 
