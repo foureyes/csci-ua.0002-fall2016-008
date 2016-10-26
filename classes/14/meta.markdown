@@ -15,7 +15,6 @@ title: About Class #14
 * scope
 * recursion (maybe)
 * strings
-* evaluations!
 
 </section>
 
@@ -29,7 +28,6 @@ Grades should be posted by next Monday
 * (typically average is above 80)
 
 </section>
-{% endcomment %}
 
 <section markdown="block">
 ### Homework
@@ -39,6 +37,7 @@ Grades should be posted by next Monday
 * questions about homework?
 
 </section>
+{% endcomment %}
 
 {% comment %}
 <section markdown="block">

@@ -115,6 +115,70 @@ __Let's try to draw a tree using recursion. &rarr;__
 </div>
 </section>
 
+<section markdown="block">
+### More Trees
+
+{% highlight python %}
+import random
+import turtle
+t = turtle.Turtle()
+wn = turtle.Screen()
+wn.tracer(0)
+
+t.left(90)
+
+"""
+add functions here
+draw_tree
+forest
+"""
+
+forest()
+wn.mainloop()
+
+{% endhighlight %}
+
+
+
+</section>
+
+<section markdown="block">
+### draw_tree
+
+{% highlight python %}
+def draw_tree(s, w):
+    if s <= 5:
+        return
+    else:
+        new_w = w if w <= 1 else w - 1
+        t.pensize(w)
+        a1 = random.randint(20, 50)
+        t.forward(s)
+        t.left(a1)
+        draw_tree(s - random.randint(2, s // 2), new_w)
+        a2 = random.randint(20, 50)
+        t.right(a1 + a2)
+        draw_tree(s - random.randint(2, s // 2), new_w)
+        t.left(a2)
+        t.back(s)
+{% endhighlight %}
+
+</section>
+
+<section markdown="block">
+### forest
+
+{% highlight python %}
+def forest():
+	for x in range(-300, 301, 200):
+    	print(x)
+    	t.up()
+    	t.goto(x, -100)
+    	t.down()
+    	t.color("#{}".format(str(random.randint(0, 6)) * 3))
+    	draw_tree(random.randint(30, 100), random.randint(4, 10))
+{% endhighlight %}
+</section>
 <!--
 <section markdown="block">
 ### Why Recursion?

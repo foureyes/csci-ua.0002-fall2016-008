@@ -1,7 +1,14 @@
-code {
+pre > code {
 	margin:0px;
 	padding:0px;
 	font-size:0.75em;
+	background-color: #272822;
+}
+code {
+	background-color: #ccdddd;
+	margin:0px;
+	padding:0px 4px 0px 4px;
+	font-size:1em;
 }
 
 .highlight > pre {

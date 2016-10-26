@@ -117,8 +117,13 @@ The first definition (#1) returns a string, while the other (#2) doesn't return 
 
 Printing out the __results__ of both functions gives:
 
-1. 'one two three'
-2. None
+1. Version #1
+    * <code class="inline">one two three</code>
+    * (this function returns a string, and the caller prints)
+2. Version #2
+    * <code class="inline">one two three</code>
+    * <code class="inline">None</code>
+    * (this function prints out the string itself, and then returns no value, or `None`)
 </section>
 
 <section markdown="block">
@@ -133,7 +138,7 @@ Printing out the __results__ of both functions gives:
 </section>
 
 <section markdown="block">
-### Defining a Function vs Calling a Function
+### Defining vs Calling 
 __What gets printed out for each version of code?__
 {% highlight python %}
 # version 1
@@ -150,7 +155,7 @@ join_three_strings('one', 'two', 'three')
 print(join_three_strings('one', 'two', 'three'))
 {% endhighlight %}
 <div class="incremental" markdown="block">
-1: nothing, 2: nothing, 3: 'one two three'
+1: nothing, 2: nothing, 3: `one two three`
 </div>
 </section>
 
@@ -226,7 +231,7 @@ __Let's use assertions to test an incorrect implementation of our function - one
 # output shows line number and error...
 Traceback (most recent call last):
   File "foo.py", line 4, in <module>
-    assert "ha ha ha" == join_three_strings("ha", "ha", "ha"), "joined string should have spaces"
+    assert "ha ha ha" == join_three_strings("ha", "ha", "ha"), "should have spaces"
 AssertionError: joined string should have spaces
 {% endhighlight %}
 </div>

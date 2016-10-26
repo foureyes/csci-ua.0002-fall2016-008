@@ -1,4 +1,3 @@
-{% comment %}  
 <article class="due" markdown="block">
 #### Due Today
 
@@ -12,14 +11,16 @@
 #### Slides
 
 
+{% comment %}
 * [About Class #14](classes/14/meta.html)
+{% endcomment %}
+
+* Midterm Solutions
 * [Functions: Assertions and Testing](classes/14/functions_assertions_testing.html)
 * [Scope](classes/14/scope.html)
 * [Recursion](classes/14/recursion.html)
 * [Strings](classes/14/strings.html)
 * [As a list of chars](classes/14/strings_as_list.html)
-* Evaluations
-
 
 <!--
 * [Objects and Methods](classes/14/objects_and_methods.html)
@@ -76,5 +77,3 @@ __{{site.bookt}}__
 4. [clicky.py](homework/hw06/clicky.py)
 5. [past.py](homework/hw06/past.py)
 -->
-{% endcomment %}
-
