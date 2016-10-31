@@ -16,9 +16,9 @@
 {% endcomment %}
 
 * Midterm Solutions
+    * [Midterm Solutions Version 1](resources/handouts/midterm_1/midterm_1_section_008_v1_cactus_solutions.pdf)
+    * [Midterm Solutions Version 2](resources/handouts/midterm_1/midterm_1_section_008_v2_evergreen_solutions.pdf)
 * [Functions: Assertions and Testing](classes/14/functions_assertions_testing.html)
-* [Midterm Solutions Version 1](resources/handouts/midterm_1/midterm_1_section_008_v1_cactus_solutions.pdf)
-* [Midterm Solutions Version 2](resources/handouts/midterm_1/midterm_1_section_008_v2_evergreen_solutions.pdf)
 * [Scope](classes/14/scope.html)
 * [Recursion](classes/14/recursion.html)
 * [Strings](classes/14/strings.html)
