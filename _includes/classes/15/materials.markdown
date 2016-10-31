@@ -1,4 +1,3 @@
-{% comment %}
 <article class="due" markdown="block">
 #### Due Today
 
@@ -31,5 +30,3 @@ Homework #6 __Due Sunday, Nov 6th, at 11PM__
 5. [secret_messages.py](homework/hw06/secret_messages.py)
 
 </article>
-
-{% endcomment %}
