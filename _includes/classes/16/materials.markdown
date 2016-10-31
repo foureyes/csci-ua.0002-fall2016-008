@@ -1,4 +1,3 @@
-{% comment %}  
 <article class="due" markdown="block">
 #### Due Today
 
@@ -13,10 +12,12 @@ Slides
 * [Strings as Objects, String Methods](classes/16/strings_as_objects.html)
 * [Built-in String Functions](classes/16/strings_built_in_functions.html)
 
+{% comment %}
 Midterm Solutions
 
 * [Midterm Solutions Version 1](resources/handouts/midterm_1/midterm_1_section_008_v1_solutions.pdf)
 * [Midterm Solutions Version 2](resources/handouts/midterm_1/midterm_1_section_008_v2_solutions.pdf)
+{% endcomment %}
 </article>
 
 <article class="assignments" markdown="block">
@@ -29,7 +30,7 @@ Readings
 Assignments
 
 * Complete the Self Paced-Learning Module #8
-* Take quiz #8 on NYU Classes - Module #8 - __Due Mon, 11/2__
+* Take quiz #8 on NYU Classes - Module #8 - __Due Mon, 11/9__
 
 <!--
 Readings
@@ -79,4 +80,3 @@ __{{ site.bookt }}__
 5. [recursive_power.py](homework/hw07/recursive_power.py)
 6. [prime_extra_credit.py](homework/hw07/prime_extra_credit.py)
 -->
-{% endcomment %}

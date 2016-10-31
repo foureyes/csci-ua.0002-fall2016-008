@@ -1,7 +1,7 @@
 <article class="due" markdown="block">
 #### Due Today
 
-* (Late Homework)
+* 12:30pm - Extended Homework Due Date
 
 </article>
 
@@ -23,10 +23,10 @@ Warm-up
 
 Homework #6 __Due Sunday, Nov 6th, at 11PM__ 
 
-1. [string_practice.py](homework/hw06/string_practice.py)
-2. [is_palindrome.py](homework/hw06/is_palindrome.py)
-3. [pig_latin.py](homework/hw06/pig_latin.py)
-4. [translate_passage.py](homework/hw06/translate_passage.py)
-5. [secret_messages.py](homework/hw06/secret_messages.py)
+1. [is_palindrome.py](homework/hw06/is_palindrome.py)
+2. [pig_latin.py](homework/hw06/pig_latin.py)
+3. [translate_passage.py](homework/hw06/translate_passage.py)
+4. [secret_messages.py](homework/hw06/secret_messages.py)
+5. [string_practice.py (for string methods)](homework/hw06/string_practice.py)
 
 </article>
