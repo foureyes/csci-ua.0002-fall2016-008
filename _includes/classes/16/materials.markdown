@@ -11,6 +11,8 @@ Slides
 * [Strings So Far (Review)](classes/16/review.html)
 * [Strings as Objects, String Methods](classes/16/strings_as_objects.html)
 * [Built-in String Functions](classes/16/strings_built_in_functions.html)
+* [Lists Overview](classes/17/lists.html)
+* [List Methods](classes/17/list_methods.html)
 
 {% comment %}
 Midterm Solutions
