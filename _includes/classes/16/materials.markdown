@@ -32,7 +32,7 @@ Readings
 Assignments
 
 * Complete the Self Paced-Learning Module #8
-* Take quiz #8 on NYU Classes - Module #8 - __Due Mon, 11/9__
+* Take quiz #8 on NYU Classes - Module #8 - __Due Mon, 11/7__
 
 <!--
 Readings

@@ -274,26 +274,26 @@ Jump to Class:
 
 <a name="class17"></a><!---------- start --------------->
 
-<section markdown="block" class="workshop">
-### MON 11/07, Class #17 (Programming Assignment)
+<section markdown="block">
+### MON 11/07, Class #17 
 
 <div class="class-details">
 <article class="topics" markdown="block">
 #### Topics 
 
-* In-class programming assignment
+* Lists
 </article> {% include classes/17/materials.markdown %} </div> </section> 
 
 <a name="class18"></a><!---------- start --------------->
 
-<section markdown="block">
-### WED 11/09, Class #18
+<section markdown="block" class="workshop">
+### WED 11/09, Class #18 (Programming Assignment)
 
 <div class="class-details">
 <article class="topics" markdown="block">
 #### Topics
 
-* Lists
+* In-class programming assignment
 
 </article> {% include classes/18/materials.markdown %} </div> </section> 
 
