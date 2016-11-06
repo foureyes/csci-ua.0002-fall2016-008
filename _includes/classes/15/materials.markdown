@@ -21,7 +21,7 @@ Warm-up
 * string methods, functions
 * review unicode, chr, ord
 
-Homework #6 __Due Sunday, Nov 6th, at 11PM__ 
+Homework #6 __Due Tuesday, Nov 8th, at 11PM__ 
 
 1. [is_palindrome.py](homework/hw06/is_palindrome.py)
 2. [pig_latin.py](homework/hw06/pig_latin.py)
