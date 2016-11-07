@@ -1,9 +1,7 @@
-{% comment %} 
 <article class="due" markdown="block">
 #### Due Today
 
-* Homework #06
-* Module #08
+* Quiz / Module #08
 
 </article>
 
@@ -75,4 +73,3 @@ For homework #5 (nested loops):
 * [lots_of_stars.py](resources/code/hw5/lots_of_stars.py)
 
 -->
- {% endcomment %}

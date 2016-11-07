@@ -1,8 +1,6 @@
-{% comment %}  
 <article class="due" markdown="block">
 #### Due Today
 
-(no quiz)
 <!--
 * Homework
 -->
@@ -19,7 +17,7 @@
 <article class="assignments" markdown="block">
 #### Assignments / Readings		
 
-Homework #7 __Due Tuesday, Nov 10th, at 11PM__ 
+Homework #7 __Due Tuesday, Nov 14th, at 11PM__ 
 
 * [vet.py](homework/hw07/vet.py)
 * [pawesome_pet_vet.py](homework/hw07/pawsome_pet_vet.py)
@@ -74,4 +72,3 @@ __{{ site.bookt }}__
 6. [is_palindrome.py](homework/hw08/is_palindrome.py)
 7. [multiples_of_seven.py](homework/hw08/multiples_of_seven.py)
 -->
-{% endcomment %}
