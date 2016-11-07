@@ -1,15 +1,13 @@
-{% comment %}  
 <article class="due" markdown="block">
 #### Due Today
 
-<!--
-* Homework
--->
 
 </article>
 
 <article class="slides" markdown="block">
 #### Slides
+
+{% comment %}
 
 Selected Slides from Previous Lecture
 
@@ -20,6 +18,9 @@ Selected Slides from Previous Lecture
 Today's Slides
 
 * [Turtle](classes/19/turtle.html)
+
+
+{% endcomment %}
 
 Midterm #2 Practice
 
@@ -66,4 +67,3 @@ __{{ site.bookt }}__
 
 
 -->
-{% endcomment %}
