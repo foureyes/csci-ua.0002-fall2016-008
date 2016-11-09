@@ -33,11 +33,9 @@ Here's one way to do it...
 
 {% highlight python %}
 def swappy(my_list):
-	if len(my_list) < 2:
-		return my_list
-	else:
-		# create a copy of the original list
-		new_list = my_list[:]
+	# create a copy of the original list
+	new_list = my_list[:]
+	if len(new_list) >= 2:
 		new_list[0], new_list[1] = new_list[1], new_list[0]
     return new_list
 
