@@ -22,6 +22,14 @@ Today's Slides
 
 {% endcomment %}
 
+Slides
+
+* from previous lecture, [List Exercises](classes/17/list_exercises.html)
+* [Review Objects and Methods](classes/19/objects.html)
+* [Review Functions](classes/19/functions.html)
+* [Review Strings](classes/19/strings.html)
+* [Review Lists](classes/19/lists.html)
+
 Midterm #2 Practice
 
 * [Midterm #2 Practice Questions](resources/handouts/midterm_2/midterm_2_practice.pdf)
