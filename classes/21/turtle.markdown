@@ -653,7 +653,7 @@ The Screen object function, __ontimer__, allows a function to be executed some s
 wn.ontimer(my_draw, 500)
 {% endhighlight %}
 
-Notice that the function name is passed in as you would any other variable name.</section>
+Notice that the function name is passed in as you would any other variable name.
 
 __On to an example...__ &rarr;
 </section>

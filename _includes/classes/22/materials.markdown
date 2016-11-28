@@ -19,6 +19,11 @@
 <article class="assignments" markdown="block">
 #### Assignments / Readings		
 
+1. [your_face instructions](homework/hw08/your_face.html)
+	* [your_face.py (file download)](homework/hw08/your_face.py)
+2. [starry_starry_night instructions](homework/hw08/starry_starry_night.html)
+	* [starry_starry_night.py (file download)](homework/hw08/starry_starry_night.py)
+
 {% comment %}
 Readings
 
