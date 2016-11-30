@@ -11,9 +11,10 @@
 * [About Class #23](classes/23/meta.html)
 * [Courses Next Semester](classes/23/cs.html)
 -->
+* String split and join again?
 * Midterm Solutions
-    * [Midterm 2 Solutions Version Cactus](resources/handouts/midterm_1/midterm_008_cactus_solutions.pdf)
-    * [Midterm 2 Solutions Version Evergreen](resources/handouts/midterm_1/midterm_008_evergreen_solutions.pdf)
+    * [Midterm 2 Solutions Version Cactus](resources/handouts/midterm_2/midterm_2_008_cactus_solutions.pdf)
+    * [Midterm 2 Solutions Version Evergreen](resources/handouts/midterm_2/midterm_2_008_evergreen_solutions.pdf)
 * [Exceptions](classes/23/exceptions.html)
 * [File I/O Part 1](classes/23/files.html)
 * [File System and Paths](classes/23/paths.html)
