@@ -21,10 +21,13 @@
 <article class="assignments" markdown="block">
 #### Assignments / Readings		
 
-Modules #9 and #10 __Due Wednesday, Dec 7th, before class__
+Modules #9 __Due Monday, Dec 5th, before class__
 
-* Complete the [Self Paced-Learning Module #9]({{ site.module9 }})
-* Complete the [Self Paced-Learning Module #10]({{ site.module10 }})
 * Take quiz #9 on NYU Classes
+* Complete the [Self Paced-Learning Module #9]({{ site.module9 }})
+
+Modules #10 __Due Wednesday, Dec 7th, before class__
+
+* Complete the [Self Paced-Learning Module #10]({{ site.module10 }})
 * Take quiz #10 on NYU Classes
 </article>
