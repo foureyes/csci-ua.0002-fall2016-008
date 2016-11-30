@@ -11,7 +11,7 @@ title: File I/O
 <section markdown="block">
 ### Where's My Stuff?
 
-When our programs are run, we usually have a bunch of variables that store numbers, lists, strings and allsorts of other data.  __But where do you think this data is actually stored?__ &rarr;
+When our programs are run, we usually have a bunch of variables that store numbers, lists, strings and all sorts of other data.  __But where do you think this data is actually stored?__ &rarr;
 
 
 <div class="incremental" markdown="block">
@@ -440,7 +440,9 @@ Some of these exercises require you to work with existing text files. So, __how 
 IDLE can be used to work on files that _aren't_ Python programs. __To save a _plain text_ file__ &rarr;
 
 * go to __new file__ as usual
-* ...and __save as__ ... but add __.text__ as your extension
+* ...and __save as__ ... but add __.txt__ as your extension
+
+(You can also open file that aren't .py or .txt in IDLE, as long as they're just _plain text_)
 
 </section>
 
