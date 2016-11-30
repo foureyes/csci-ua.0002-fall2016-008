@@ -1,4 +1,3 @@
-{% comment %}  
 <article class="due" markdown="block">
 #### Due Today
 
@@ -8,8 +7,10 @@
 <article class="slides" markdown="block">
 #### Slides
 
+<!--
 * [About Class #23](classes/23/meta.html)
 * [Courses Next Semester](classes/23/cs.html)
+-->
 * [Exceptions](classes/23/exceptions.html)
 * [File I/O Part 1](classes/23/files.html)
 * [File System and Paths](classes/23/paths.html)
@@ -20,8 +21,10 @@
 <article class="assignments" markdown="block">
 #### Assignments / Readings		
 
-Module #8 __Due Monday, Nov 30th, before class__
+Modules #9 and #10 __Due Wednesday, Dec 7th, before class__
 
 * Complete the [Self Paced-Learning Module #9]({{ site.module9 }})
-* Take quiz #8 on NYU Classes
-{% endcomment %}
+* Complete the [Self Paced-Learning Module #10]({{ site.module10 }})
+* Take quiz #9 on NYU Classes
+* Take quiz #10 on NYU Classes
+</article>
