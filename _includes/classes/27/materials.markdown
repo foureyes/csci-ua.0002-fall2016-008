@@ -1,4 +1,3 @@
-{% comment %}  
 <article class="due" markdown="block">
 #### Due Today
 
@@ -8,11 +7,13 @@
 <article class="slides" markdown="block">
 #### Slides
 
+{% comment %}
 __Final Exam Out-of-Class Review__
 
 * __Date__: 12/15/2015  
 * __Time__: 7:05PM- 8:05PM
 * __Location__: WWH 202
+{% endcomment %}
 
 __Final Exam Practice__
 
@@ -27,8 +28,9 @@ __Final Exam Practice__
 <article class="assignments" markdown="block">
 #### Assignments / Readings		
 
+{% comment %}
 * [hint.py - a _in-class_ hint for homework 10, part 3](homework/hw10/hint.py)
 * [zips.txt - text file for hint.py](homework/hw10/zips.txt)
+{% endcomment %}
 
 </article>
-{% endcomment %}
