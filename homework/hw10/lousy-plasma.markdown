@@ -104,7 +104,7 @@ __Hints__
 
 * We removed punctuation in a previous homework...
 	* One way to do this is to accumulate all of the characters that are alphanumeric (<code>my_character.isalnum()</code>)
-	* While it's not required, it might be useful to move this functionality into a separate function (maybe call it <code>remove_punctionation</code> ... have it take a string and return a new string
+	* While it's not required, it might be useful to move this functionality into a separate function (maybe call it <code>remove_punctuation</code> ... have it take a string and return a new string
 * In that same homework, we were also tasked with breaking apart a string into single words. Do this any way you like... here are a couple of suggestions:
 	* accumulate until you see space, then you know you have a word
 	* __OR__ simply use <code>split</code>, and then <code>join</code> at the end

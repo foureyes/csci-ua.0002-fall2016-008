@@ -1,8 +1,9 @@
-{% comment %}  
 <article class="due" markdown="block">
 #### Due Today
 
+{% comment %}
 * Homework #9
+{% endcomment %}
 
 </article>
 
@@ -26,4 +27,3 @@ Resources for Homework #10
 * lyrics: [bad_blood.txt](homework/hw10/bad_blood.txt) (right-click, save as)
 
 </article>
-{% endcomment %}
