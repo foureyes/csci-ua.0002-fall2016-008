@@ -134,7 +134,12 @@ ECSTATIC birthday exclaimed the DEPRESSED BLEAK kitten</code></pre>
 
 ## Part 2
 
-Rather than use a hard-coded dictionary as your thesaurus, use an [external thesaurus file](thesaurus.txt) (right-click and save as... to where your Python program is) to populate the keys and values in your dictionary. The data in the file is in the following format:
+Rather than use a hard-coded dictionary as your thesaurus, use an [external thesaurus file](thesaurus.txt) (right-click and save as... __to where your Python program is__) to populate the keys and values in your dictionary. Use the following line to read in your file (do not use absolute paths):
+
+<pre><code data-trim contenteditable>f = open('thesaurus.txt', 'r') </code></pre>
+
+
+The data in the file is in the following format:
 
 <pre><code data-trim contenteditable>word1,synonym1,synonym2,...,synonymN-1,synonymN
 word2,synonym1,synonym2,...,synonymN-1,synonymN
@@ -172,10 +177,10 @@ Finally, modify your above program to write a song for you. It'll use another ex
 
 __Example Output__
 
-<pre><code data-trim contenteditable>Cause baby now we got disapprobation blood
+<pre><code data-trim contenteditable>Cause baby now we got DISAPPROBATION blood
 You know it use to be mad love
-So pleasurableness a attention sociality what youve done
-Cause infant now we got bad blood ...</code></pre>
+So PLEASURABLENESS a ATTENTION SOCIALITY what youve done
+Cause INFANT now we got bad blood ...</code></pre>
 
 <hr>
 
