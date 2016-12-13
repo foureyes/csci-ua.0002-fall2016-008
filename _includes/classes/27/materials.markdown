@@ -7,6 +7,11 @@
 <article class="slides" markdown="block">
 #### Slides
 
+Additional Exercises
+
+* [hint.py - a _in-class_ hint for homework 10, part 3](homework/hw10/hint.py)
+* [zips.txt - text file for hint.py](homework/hw10/zips.txt)
+
 {% comment %}
 __Final Exam Out-of-Class Review__
 
@@ -28,9 +33,5 @@ __Final Exam Practice__
 <article class="assignments" markdown="block">
 #### Assignments / Readings		
 
-{% comment %}
-* [hint.py - a _in-class_ hint for homework 10, part 3](homework/hw10/hint.py)
-* [zips.txt - text file for hint.py](homework/hw10/zips.txt)
-{% endcomment %}
 
 </article>
